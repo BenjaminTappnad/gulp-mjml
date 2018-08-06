@@ -1,7 +1,8 @@
 
-# Gulp MJML
+# Gulp MJML - Tappnad version
 
 Add Gulp to your MJML workflow!
+This fork include the lastest version of MJML (currently ^4.1.0)
 
 ## Usage:
 
